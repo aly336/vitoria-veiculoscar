@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function NotFound(){return <main id="conteudo" className="inner-page chapter not-found"><p className="eyebrow">404 / UM NOVO CAMINHO</p><h1>ESTA PÁGINA<br/>NÃO ESTÁ AQUI.</h1><p>Volte à experiência ou consulte os veículos.</p><Link href="/" className="button button-primary">Voltar ao início →</Link><Link href="/veiculos/" className="text-button">Conhecer os veículos →</Link></main>;}

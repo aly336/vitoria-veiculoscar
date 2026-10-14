@@ -1,0 +1,74 @@
+{
+  "source": "C:/Users/Otávio/Downloads/arquivos",
+  "assets": {
+    "front-perspective": "Supercar Sombrio em Estúdio Dramático.png",
+    "top": "Imagem do ChatGPT 14 de out. de 2026, 15_07_13.png",
+    "side": "Imagem do ChatGPT 14 de out. de 2026, 15_07_32.png",
+    "front": "Imagem do ChatGPT 14 de out. de 2026, 15_07_40.png",
+    "rear": "Imagem do ChatGPT 14 de out. de 2026, 15_07_46.png",
+    "rear-perspective": "Imagem do ChatGPT 14 de out. de 2026, 15_07_52.png"
+  },
+  "optimized": [
+    {
+      "slug": "front-perspective",
+      "width": 800,
+      "bytes": 24956
+    },
+    {
+      "slug": "front-perspective",
+      "width": 1680,
+      "bytes": 59196
+    },
+    {
+      "slug": "top",
+      "width": 800,
+      "bytes": 31958
+    },
+    {
+      "slug": "top",
+      "width": 1680,
+      "bytes": 103830
+    },
+    {
+      "slug": "side",
+      "width": 800,
+      "bytes": 28108
+    },
+    {
+      "slug": "side",
+      "width": 1680,
+      "bytes": 85956
+    },
+    {
+      "slug": "front",
+      "width": 800,
+      "bytes": 25100
+    },
+    {
+      "slug": "front",
+      "width": 1680,
+      "bytes": 75780
+    },
+    {
+      "slug": "rear",
+      "width": 800,
+      "bytes": 28378
+    },
+    {
+      "slug": "rear",
+      "width": 1680,
+      "bytes": 85574
+    },
+    {
+      "slug": "rear-perspective",
+      "width": 800,
+      "bytes": 36902
+    },
+    {
+      "slug": "rear-perspective",
+      "width": 1680,
+      "bytes": 115330
+    }
+  ],
+  "model3D": null
+}

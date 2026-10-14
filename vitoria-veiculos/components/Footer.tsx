@@ -1,0 +1,4 @@
+import Link from 'next/link';
+import { Brand } from './Header';
+import { business,whatsappHref } from '@/data/business';
+export function Footer(){return <footer className="site-footer chapter"><div className="footer-top"><Link href="/" aria-label="Vitória Veículos — início"><Brand/></Link><div><p>{business.address}</p><a href={whatsappHref('Olá, Vitória Veículos! Quero falar com o atendimento.')} target="_blank" rel="noopener noreferrer">WhatsApp {business.phoneDisplay}</a></div><nav aria-label="Navegação do rodapé"><Link href="/veiculos/">Veículos</Link><Link href="/sobre/">Sobre</Link><Link href="/contato/">Contato</Link><Link href="/privacidade/">Privacidade</Link></nav></div><div className="footer-bottom"><p>© {new Date().getFullYear()} Vitória Veículos</p><p>O supercarro desta experiência é conceitual e não representa uma oferta de venda.</p><a href="#conteudo">Voltar ao início ↑</a></div></footer>;}
